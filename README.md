@@ -1,4 +1,4 @@
-# Darkrai X <img src="images/images__4_-removebg-preview.png" width=30>
+# Darkrai X <a href="https://www.roblox.com"><img src="images/images__4_-removebg-preview.png" width=30></img></a>
 
 Hello, Darkrai X A Well Known Script In Mobile Exploiting World Of Roblox
 You Are Currently Viewing The "GitHub" Of Darkrai X
