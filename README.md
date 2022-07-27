@@ -25,8 +25,8 @@ More Scripts Will Be Coming Soon!
 
 Darkrai X Was Created On 9/4/2021 By GamingScripter The Owner Of Darkrai X
 
-### First Script
+#### First Script
 Darkrai X's First Script Was A Script Hub And Got Many Hate For Being Skidded
 
-### First Successful Script
-Our First Successfull Script Was **_Darkrai X | Arsenal_**
+#### First Successful Script
+Our First Successfull Script Was **_Darkrai X | Arsenal_** And Got The Honor To Be The Best Mobile Script For Arsenal!
