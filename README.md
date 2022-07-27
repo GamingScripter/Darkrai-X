@@ -1,6 +1,6 @@
 # Darkrai X
 
-
+(https://media.discordapp.net/attachments/948136149338169374/993896457096663120/images__4_-removebg-preview-1.png)
 
 Hello, Darkrai X A Well Known Script In Mobile Exploiting World Of Roblox
 You Are Currently Viewing The "GitHub" Of Darkrai X
