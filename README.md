@@ -20,3 +20,8 @@ Current Availabile Scripts By Darkrai X Is
 * Zombie Uprising
 
 More Scripts Will Be Coming Soon!
+
+### Information
+
+Darkrai X Was Created On 9/4/2021 By GamingScripter The Owner Of Darkrai X
+Darkrai X's First Script Was A Script Hub And Got Many Hate For Being Skidde
