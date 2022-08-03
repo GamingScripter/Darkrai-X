@@ -18,6 +18,8 @@ Current Availabile Scripts By Darkrai X Are
 ## Upcoming Scripts
 
 * Zombie Uprising
+* Zombie Attack
+* Muscle Legends
 
 More Scripts Will Be Coming Soon!
 
