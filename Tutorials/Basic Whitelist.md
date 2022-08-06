@@ -31,7 +31,7 @@ return {
 }
 ```
 
-**Get The Raw File Link And Add It In This
+**Get The Raw File Link And Add It In This**
 ```lua
 loadstring(game:HttpGet("Raw txt link here", true))()
 ```
