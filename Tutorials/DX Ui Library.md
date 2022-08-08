@@ -128,6 +128,8 @@ Outcome :
 42
 ```
 
+Oh Btw, This Slider Is Fixed For Mobile!
+
 ## Drop-down
 
 ---
