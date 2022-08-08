@@ -5,7 +5,7 @@ Welp, It's Not The Best But It's Also Not The Worst!
 
 Here Is A Image Of The Ui Library
 
-<img src="images/IMG_20220808_213955.jpg">
+<img src="https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/images/IMG_20220808_213955.jpg">
 
 ## Tutorial
 
