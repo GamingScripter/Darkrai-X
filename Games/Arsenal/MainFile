@@ -51,6 +51,7 @@ TextButton.Text = "Less Laggy Version"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextSize = 14.000
 TextButton.MouseButton1Click:Connect(function()
+    Intro:Destroy()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Arsenal/LessLaggy"))()
 end)
 
@@ -64,6 +65,7 @@ TextButton_2.Text = "More Options But Laggy"
 TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_2.TextSize = 14.000
 TextButton_2.MouseButton1Click:Connect(function()
+Intro:Destroy()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Arsenal/MoreLaggy"))()
 end)
 
