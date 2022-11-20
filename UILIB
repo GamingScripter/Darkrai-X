@@ -32,11 +32,9 @@ function library:CreateWindow(name, version, icon)
 	for i = 1, math.random(3,20) do
 		RandomString = RandomString..string.char(math.random(97,122))
 	end
-	ProtectInstance(MyGui)
-	ProtectInstance(Window)
 
 	MyGui.Name = RandomString
-	MyGui.Parent = cloneref(game:GetService("CoreGui"))
+	MyGui.Parent = game:GetService("CoreGui")
 	MyGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 	Window.Name = "Window"
