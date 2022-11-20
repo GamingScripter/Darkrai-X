@@ -9,7 +9,7 @@ local request = request or http_request or (identifyexecutor() == "Synapse X" an
 local UIS = game:GetService("UserInputService")
 local TS = game:GetService("TweenService")
 local plr = game.Players.LocalPlayer
-local mouse = plr:GetMouse()
+local Mouse = plr:GetMouse()
 function library:CreateWindow(name, version, icon)
 	name = name or "Name"
 	version = version or "Version"
