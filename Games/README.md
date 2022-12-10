@@ -15,6 +15,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkra
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/NicoNextBots"))()
 ```
 
+## Shockwave Racing
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Shockwave%20Racing"))()
+```
+
 ## Evade
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
