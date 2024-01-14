@@ -14,7 +14,7 @@ Here Is A Image Of The Ui Library
 ---
 
 ```lua
-local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Kavo-Ui/main/Darkrai%20Ui", true))()
+local DarkraiX = loadstring(game:HttpGet(("https://raw.githubusercontent.com/natoloe009/ka/main/darkrai%20x%20src.lua"),true))()
 ```
 
 This Will Be Your Starting If This Is Not In Your Script Then It Will Not Work!
